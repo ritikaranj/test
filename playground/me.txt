@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ritika Ranjan
+Skill: HTML,CSS,JS,Next.js
+Email: ritikaranjanpatna@gmail.com
+{{/user}}
